@@ -1,4 +1,4 @@
-Snookong Snooker: A Simple Snooker Game
+![image](https://github.com/user-attachments/assets/3f3ddb27-e18e-46b8-970a-a46634dfe04a)Snookong Snooker: A Simple Snooker Game
 
 This project is a snooker game where the objective is to clear all the balls on the table, leaving only the white ball. 
 However, if the white ball falls into a pocket or goes off the table, the game ends.
@@ -34,7 +34,8 @@ https://youtu.be/DQmqL3BEap4
 
 # UML
 https://lucid.app/lucidchart/c75ac699-d9b8-4d76-a7b0-e48c557a83a0/edit?viewport_loc=517%2C-340%2C1726%2C847%2CHWEp-vi-RSFO&invitationId=inv_ecf009a4-4fe9-44f8-b800-53bd1177bb2c
-![img_1.png](img_1.png)
+<img width="1116" alt="ภาพถ่ายหน้าจอ 2567-12-16 เวลา 20 10 42" src="https://github.com/user-attachments/assets/fd6318e5-cd6a-4a5c-bed5-9c28dc9b34d9" />
+
 (picture in UML.png)
 +-----------------+
 |   TableSnooker |
