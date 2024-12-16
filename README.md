@@ -15,7 +15,6 @@ You can download it from the official website: https://www.python.org/downloads/
 Therefore, no additional libraries are needed.
 3. Clone the Repository: Clone this repository to your local machine:
 git clone https://github.com/cooldog98/Snooker-Snooker-final-project-.git
-cd snooker-game-simulation
 4. Run the snooker.py file to start the game.
 
 # Usage
