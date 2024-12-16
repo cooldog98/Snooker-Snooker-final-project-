@@ -14,10 +14,9 @@ You can download it from the official website: https://www.python.org/downloads/
 2. Install Required Libraries: The project uses the turtle library, which comes pre-installed with Python. 
 Therefore, no additional libraries are needed.
 3. Clone the Repository: Clone this repository to your local machine:
-git clone https://github.com/your-username/snooker-game-simulation.git
+git clone https://github.com/cooldog98/Snooker-Snooker-final-project-.git
 cd snooker-game-simulation
-4. Run the Game: Run the project script using the following command:
-python snooker_game.py
+4. Run the snooker.py file to start the game.
 
 # Usage
 Once the game is running, you can control the cue stick and balls using the following keypresses:
