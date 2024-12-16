@@ -33,7 +33,8 @@ Expected Outputs:
 https://youtu.be/DQmqL3BEap4
 
 # UML
-![img.png](img.png)
+https://lucid.app/lucidchart/c75ac699-d9b8-4d76-a7b0-e48c557a83a0/edit?viewport_loc=517%2C-340%2C1726%2C847%2CHWEp-vi-RSFO&invitationId=inv_ecf009a4-4fe9-44f8-b800-53bd1177bb2c
+![img_1.png](img_1.png)
 (picture in UML.png)
 +-----------------+
 |   TableSnooker |
