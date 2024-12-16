@@ -7,7 +7,7 @@ However, if the white ball falls into a pocket or goes off the table, the game e
 This is a Snooker Game created using Python's Turtle graphics. The game simulates a snooker table with balls, pockets, 
 and player interactions. Players control the cue stick to hit the white ball and interact with other balls on the table.
 The game includes features like ball movement, collisions, bouncing off walls, and detecting when balls fall into pockets.
-0o
+
 # To run this project, follow the steps below:
 1. Install Python 3.x: Make sure Python is installed on your machine. 
 You can download it from the official website: https://www.python.org/downloads/
