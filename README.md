@@ -9,8 +9,7 @@ and player interactions. Players control the cue stick to hit the white ball and
 The game includes features like ball movement, collisions, bouncing off walls, and detecting when balls fall into pockets.
 
 # To run this project, follow the steps below:
-1. Install Python 3.x: Make sure Python is installed on your machine. 
-You can download it from the official website: https://www.python.org/downloads/
+1. Make sure you have Python installed on your system (You can download from : https://www.python.org/downloads/).
 2. Install Required Libraries: The project uses the turtle library, which comes pre-installed with Python. 
 Therefore, no additional libraries are needed.
 3. Clone the Repository: Clone this repository to your local machine:
