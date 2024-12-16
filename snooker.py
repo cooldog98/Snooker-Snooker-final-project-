@@ -219,14 +219,14 @@ def move_down():
     stick.stick.setposition(stick.position_x, stick.position_y)
 
 
+"""this def can input the value of power but input in terminal Pycharm"""
 # def shoot():
-#     global power_list
-#     global power
 #     power_list = []
 #     power = int(input('Enter power of stick: '))
 #     power_list.append(power)
 #     stick.shoot(ball_white, power_list[0])
 #     power_list.clear()
+
 
 def shoot():
     stick.shoot(ball_white, power=70)
@@ -249,6 +249,7 @@ list_pockets.append(p_3)
 list_pockets.append(p_4)
 list_pockets.append(p_5)
 list_pockets.append(p_6)
+
 """black ball"""
 ball_black = Ball(-430, 0, 10, 'black')
 """red row 1"""
