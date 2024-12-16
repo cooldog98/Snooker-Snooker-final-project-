@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3f3ddb27-e18e-46b8-970a-a46634dfe04a)Snookong Snooker: A Simple Snooker Game
+Snookong Snooker: A Simple Snooker Game
 
 This project is a snooker game where the objective is to clear all the balls on the table, leaving only the white ball. 
 However, if the white ball falls into a pocket or goes off the table, the game ends.
